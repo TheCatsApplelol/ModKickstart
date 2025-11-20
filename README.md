@@ -18,7 +18,7 @@ ModKickstart is a small Python tool that quickly generates the basic folder stru
 1. Make sure Python 3.x is installed on your system.  
 2. Clone the repo or download the files:
 
-    git clone https://github.com/yourusername/ModKickstart.git
+    git clone https://github.com/TheCatsApplelol/ModKickstart.git
     cd ModKickstart
 
 3. Run the script:
